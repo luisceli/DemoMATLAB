@@ -1,0 +1,19 @@
+edad=12
+
+edad =
+
+    12
+
+nombre_estudiante='Felipe'}
+ nombre_estudiante='Felipe'}
+                           ↑
+{Error: Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check
+for mismatched delimiters.
+} 
+nombre_estudiante='Luis'
+
+nombre_estudiante =
+
+    'Luis'
+
+diary off
