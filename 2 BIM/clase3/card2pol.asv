@@ -1,0 +1,18 @@
+function  [r]= card2pol(x,y)
+   
+    r=sqrt(x.^2+y.^2);
+   
+%     if (x>0 && y >= 0)
+%         a=atan .*(y/x);
+%     elseif(x == 0 && y>0)
+%        a=90; 
+%     elseif(x<0)
+%         a=atan .*(y/x)+180;
+%     elseif(x == 0 && y<0)
+%        a=270;
+%     elseif(x > 0 && y<0)
+%          a=atan .*(y/x)+360;
+%     end
+
+   fp
+end
